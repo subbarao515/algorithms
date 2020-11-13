@@ -1,0 +1,13 @@
+D:\RandD\algorithms-1\selectionsort\bin\Debug\netcoreapp3.1\selectionsort.exe
+D:\RandD\algorithms-1\selectionsort\bin\Debug\netcoreapp3.1\selectionsort.deps.json
+D:\RandD\algorithms-1\selectionsort\bin\Debug\netcoreapp3.1\selectionsort.runtimeconfig.json
+D:\RandD\algorithms-1\selectionsort\bin\Debug\netcoreapp3.1\selectionsort.runtimeconfig.dev.json
+D:\RandD\algorithms-1\selectionsort\bin\Debug\netcoreapp3.1\selectionsort.dll
+D:\RandD\algorithms-1\selectionsort\bin\Debug\netcoreapp3.1\selectionsort.pdb
+D:\RandD\algorithms-1\selectionsort\obj\Debug\netcoreapp3.1\selectionsort.csprojAssemblyReference.cache
+D:\RandD\algorithms-1\selectionsort\obj\Debug\netcoreapp3.1\selectionsort.AssemblyInfoInputs.cache
+D:\RandD\algorithms-1\selectionsort\obj\Debug\netcoreapp3.1\selectionsort.AssemblyInfo.cs
+D:\RandD\algorithms-1\selectionsort\obj\Debug\netcoreapp3.1\selectionsort.csproj.CoreCompileInputs.cache
+D:\RandD\algorithms-1\selectionsort\obj\Debug\netcoreapp3.1\selectionsort.dll
+D:\RandD\algorithms-1\selectionsort\obj\Debug\netcoreapp3.1\selectionsort.pdb
+D:\RandD\algorithms-1\selectionsort\obj\Debug\netcoreapp3.1\selectionsort.genruntimeconfig.cache
